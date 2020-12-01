@@ -39,4 +39,4 @@ The structure of the output resembles a play—blocks of text generally begin wi
 
 As demonstrated below, the model is trained on small batches of text (100 characters each), and is still able to generate a longer sequence of text with coherent structure.
 
-thumbnail image for documentation
+![Alt text](https://github.com/jeevanjagadish/ML_Model/blob/main/5cec08e9-6a90-4a56-bc47-eaff9bf069d9.png)
